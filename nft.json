@@ -1,0 +1,10 @@
+{
+  "name": "Leaf NFT",
+  "symbol": "UPBNFT",
+  "description": "Minted during the BPDA Course.",
+  "image": "https://raw.githubusercontent.com/alexfrunza/blockchain-test/refs/heads/main/image.png",
+  "attributes": [
+    { "trait_type": "Course", "value": "BPDA" },
+    { "trait_type": "Grade", "value": "A+" }
+  ]
+}
